@@ -1,0 +1,9 @@
+/*Any CSS We wanna override*/
+h1{
+    color: rgb(255, 255, 255) !important;
+}
+
+h5{
+    color:rgb(125, 123, 123) !important;
+}
+/*edit in index later*/
